@@ -11,6 +11,18 @@
 # production
 /build
 
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+
+### Package File ###
+package-lock.json
+yarn.lock
+
+
 # misc
 .DS_Store
 .env.local
