@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/hotel1.png",
+    "title": "Luxury Suite with Ocean View",
+    "description": "A spacious luxury suite offering stunning ocean views, premium bedding, and a private balcony. Ideal for those seeking relaxation and a touch of elegance during their stay.",
+    "latitude": 25.276987,
+    "longitude": 55.296249,
+    "price": 450
+  },
+  {
+    "id": 2,
+    "image": "/assets/hotel2.png",
+    "title": "Deluxe King Room",
+    "description": "Enjoy our deluxe king room, featuring a comfortable king-sized bed, modern amenities, and complimentary WiFi. Perfect for business travelers and couples.",
+    "latitude": 40.712776,
+    "longitude": -74.005974,
+    "price": 300
+  },
+  {
+    "id": 3,
+    "image": "/assets/hotel3.png",
+    "title": "Executive Suite with City View",
+    "description": "Our executive suite offers breathtaking views of the city skyline, a separate living area, and personalized services to meet the needs of our premium guests.",
+    "latitude": 48.856613,
+    "longitude": 2.352222,
+    "price": 500
+  },
+  {
+    "id": 4,
+    "image": "/assets/hotel4.png",
+    "title": "Standard Queen Room",
+    "description": "A cozy standard queen room offering a queen-sized bed, flat-screen TV, and all the essential amenities for a comfortable and budget-friendly stay.",
+    "latitude": 35.689487,
+    "longitude": 139.691711,
+    "price": 200
+  }
+]

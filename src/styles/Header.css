@@ -1,0 +1,71 @@
+/* Main Header Container */
+.header-container {
+    display: flex;
+    justify-content: space-between; /* Aligns left, center, and right */
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white; /* White background */
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Left Section: Logo */
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Center Section: Search Bar */
+  .search-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search-bar {
+    width: 60%;
+    max-width: 400px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 1rem;
+    outline: none;
+  }
+  
+  .search-bar:focus {
+    border-color: #007bff;
+  }
+  
+  /* Right Section: Buttons */
+  .buttons-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .header-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .header-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Men's Wear Section */
+/* Men's Wear Section */
+.men-wear-container {
+    background-color: #007bff; /* Blue background */
+    color: white;
+    text-align: left; /* Align text to the left */
+    padding: 1px 20px;
+    font-size: 1.5rem; 
+    font-weight: bold;
+    }
+  
+  
